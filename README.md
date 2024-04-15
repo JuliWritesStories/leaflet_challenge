@@ -1,1 +1,2 @@
 # leaflet_challenge
+For this challenge, I created a heatmap for earthquake data using leaflet. Every pop-up can be selected to view the magnitude, depth, and location of the earthquake. The pop-ups increase in size based on magnitude and change color based on depth. A legend for depth color ranges is viewable in the right hand corner. I was assisted by chat gpt. 
